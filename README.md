@@ -24,3 +24,6 @@ Requirements
 - Python 3.x
 - NumPy
 - Matplotlib
+
+-This is the youtube link for the demo video
+- https://youtu.be/fw0Ylt18i_E
