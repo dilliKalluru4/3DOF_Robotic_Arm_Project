@@ -1,6 +1,7 @@
 # 3DOF_Robotic_Arm_Project
 
 This project simulates the operation of a 3D robotic arm, focusing on inverse kinematics and trajectory generation. It includes visualization of the robot's movement and its end-effector positions in a 3D space, simulating how the arm would interact with different target points.
+
 The project uses:
 1.Python's `numpy` library for mathematical calculations
 2.Servo motor control functions to simulate movement
